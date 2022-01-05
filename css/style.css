@@ -14,8 +14,10 @@
   padding: 0;
 }
 
+/* changes base font to 10px */
 html {
   font-size: 62.5%;
+  scroll-behavior: smooth;
 }
 
 /*
